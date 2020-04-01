@@ -2,18 +2,18 @@
 Projet scolaire d'écriture d'un service web REST de gestion des tâches.
 
 ## PART 1 (Port 8081)
-`cd Part\ 1
-npm install
-npm run start`
+    cd Part\ 1
+    npm install
+    npm run start
 
-
+La configuration est disponible dans le fichier "config.json" a la racine : permets de modifier le port du web service.
 
 
 ## PART 2
 ### Démarrage serveur (Port 8081) :
-`cd Part\ 2
-npm install
-npm run start`
+    cd Part\ 2
+    npm install
+    npm run start
 
 ou `./RUN.sh`
 
@@ -22,9 +22,9 @@ La configuration est disponible dans le fichier "config.json" a la racine : perm
 
 
 ### Démarrage client (Vue.JS), (Port 8080) :
-`cd Part\ 2_Client
-npm install
-npm run serve`
+    cd Part\ 2_Client
+    npm install
+    npm run serve
 
 ou `./RUN_CLIENT.sh`
 
