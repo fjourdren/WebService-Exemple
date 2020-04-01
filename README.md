@@ -1,7 +1,7 @@
-# Description
+## Description
 Projet scolaire d'écriture d'un service web REST de gestion des tâches.
 
-# PART 1 (Port 8081)
+## PART 1 (Port 8081)
 `cd Part\ 1
 npm install
 npm run start`
@@ -9,8 +9,8 @@ npm run start`
 
 
 
-# PART 2
-## Démarrage serveur (Port 8081) :
+## PART 2
+### Démarrage serveur (Port 8081) :
 `cd Part\ 2
 npm install
 npm run start`
@@ -21,7 +21,7 @@ La configuration est disponible dans le fichier "config.json" a la racine : perm
 
 
 
-## Démarrage client (Vue.JS), (Port 8080) :
+### Démarrage client (Vue.JS), (Port 8080) :
 `cd Part\ 2_Client
 npm install
 npm run serve`
@@ -32,11 +32,11 @@ La configuration est disponible dans le fichier "config.json" a la racine : perm
 
 
 
-# Informations
+## Informations
 * Le client développé en exemple ne montre qu'une partie des fonctionnalités géré par le service web.
 * Le client VueJS n'est pas bien décomposé en composant dans le but de réaliser un exemple de client plus rapidement.
 
-# Fonctionnalités :
+## Fonctionnalités :
 * Gestion Tâche
 * Gestion Catégorie (tag)
 * Lien entre les tâches et les catégories
